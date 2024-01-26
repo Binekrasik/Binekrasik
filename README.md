@@ -1,4 +1,7 @@
-### Hi there 👋
+### Dear explorer,
+you've likely discovered this profile by being curious, and that's great. However, there currently isn't any big project on my profile.
+
+*Fun fact: just kidding*
 
 <!--
 **Binekrasik/Binekrasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
