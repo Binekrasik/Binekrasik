@@ -1,6 +1,7 @@
-### // Dear explorer,
-you've likely discovered this profile by being curious, and that's great. However, there currently isn't any big project on my profile...
+```kt
+// TODO: put something special here
 
-...and it's likely it won't change in the near future...
-
-...*or will it?*
+// but I think this'll do for now.
+// - https://binekrasik.dev/
+// - binekrasik@proton.me
+```
